@@ -81,7 +81,6 @@ public class OAuth2Client {
 	public static final String CODE = "code";
 	public static final String CALLER = "caller";
 	public static final String AUTHENTICATION_SERVER_URL = "authentication_server_url";
-	public static final String CONFIG_FILE_PATH = "com/ups/ema/emopa/utility/Oauth2Client.config";
 	public static final String REDIRECT_URI = "redirect_uri";
 	public static final String RESOURCE_SERVER_URL = "resource_server_url";
 	public static final String RESPONSE_TYPE = "response_type";
